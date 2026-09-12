@@ -17,20 +17,30 @@ Greenbone Vulnerability Manager / OpenVAS
 ## Important Findings
 ### Finding 1
 Name: OS Detection consolidation and reporting 
+
 Severity: 0.0
+
 Port:general/tcp
+
 Description: No best matching OS identified
 
 ### Finding 2
+
 Name: Traceroute 
+
 Severity: 0.0
+
 Port: general/tcp
+
 Description: Network route from scanner (10.0.3.15) t0 target (192.168.19.4)
 
 ### Finding 3
 Name: Hostname determination Reporting  
+
 Severity: 0.0
+
 Port: general/tcp
+
 Description: host name determination for IP 192.168.19.4
 
 ## Conclusion
